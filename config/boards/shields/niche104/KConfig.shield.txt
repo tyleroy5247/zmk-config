@@ -1,0 +1,5 @@
+# Copyright (c) 2021 Tyler Roy
+# SPDX-License-Identifier: MIT
+
+config SHIELD_NICHE104
+	def_bool $(shields_list_contains,niche104)
