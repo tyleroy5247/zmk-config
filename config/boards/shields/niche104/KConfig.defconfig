@@ -1,3 +1,4 @@
+
 if SHIELD_NICHE104
 
 config ZMK_KEYBOARD_NAME
