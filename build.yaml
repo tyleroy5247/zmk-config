@@ -5,6 +5,9 @@
 # pass flags to the build command and `artifact-name` to assign a name to
 # distinguish build outputs from each other:
 
+board: [ "nice_nano" ]
+shield: [ "niche104" ]
+
 include:
   - board: nice_nano
     shield: niche104
